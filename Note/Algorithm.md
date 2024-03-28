@@ -18,6 +18,6 @@
     // m equals the maximum value in a[0...i-1], and i==n
     return m;
   }
-  bash```
+  ```
 - Two Point Method 双指针
 - Sliding window Algorithm 滑动窗口
