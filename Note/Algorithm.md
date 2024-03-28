@@ -2,7 +2,7 @@
 
 - Binary Search Algorithm 二分搜索算法
 - Loop Invariant
-  bash```
+  ```bash
   int max(int n, const int a[]) {
     int m = a[0];
     // m equals the maximum value in a[0...0]
