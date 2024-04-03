@@ -30,3 +30,7 @@ The title, consistent with the book "C++ Primer."
 指针(pointer)是指向(point to)另外一种类型的复合类型.
 - 指针无需在定义时赋初值.
 - 指针本身就是一个对象, 允许对指针赋值和拷贝, 而且在指针的生命周期内它可以先后指向几个不同的对象.
+
+| Binding  | Static | Dynamic |
+|----------|--------|---------|
+| Definition | Binding at compile time. | Binding at run time. |
