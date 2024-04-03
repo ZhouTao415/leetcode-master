@@ -13,7 +13,7 @@ The title, consistent with the book "C++ Primer."
 ## 1.1. C 和 C++ 的区别
   
 设计思想上:
-- C++ 是面向对象的语言, C 是面向过程的语言
+- C++ 是面向对象的语言, C 是面向过程的语言 [Case](https://www.zhihu.com/question/24425316)
 
 语法上:
 - C++ 具有封装/继承/多态三种特性.
