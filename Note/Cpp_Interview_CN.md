@@ -10,7 +10,7 @@ The purpose of this text is to organize commonly asked questions in interviews. 
 - "Inside the C++ Object Model"
 The title, consistent with the book "C++ Primer."
 
-## 1.1. C 和 C++ 的区别
+###### 1.1. C 和 C++ 的区别
   
 设计思想上:
 - C++ 是面向对象的语言, C 是面向过程的语言. [Case](https://www.zhihu.com/question/24425316)
