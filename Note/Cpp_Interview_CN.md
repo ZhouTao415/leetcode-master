@@ -57,7 +57,9 @@ int &refVal2; // error: a reference must be initialized
 
 - 指向常量的指针(pointer to const):
   - 具有只能够读取内存中数据, 却不能够修改内存中数据的属性的指针(底层 const).
-  - ```bash const int * p;或者int const * p;```
+  - ```bash
+    const int * p;或者int const * p;
+    ```
 - 常量指针(const pointer):
   - 常量指针是指指针所指向的位置不能改变, 即指针本身是一个常量(顶层 const), 但是指针所指向的内容可以改变.
   - 常量指针必须在声明的同时对其初始化, 不允许先声明一个指针常量随后再对其赋值, 这和声明一般的常量是一样的.
